@@ -1,1 +1,1 @@
-{ "name": "truckadvisor", "scripts": { "dev": "next dev", "build": "next build", "start": "next start" } }
+{"name":"truckadvisor","scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"next":"^15.4.5","react":"^19.1.1","react-dom":"^19.1.1"}}
